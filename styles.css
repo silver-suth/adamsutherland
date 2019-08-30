@@ -1,0 +1,16 @@
+/*This is my css file*/
+
+/*styles of tags*/
+html {
+  background-color: lavender;
+}
+
+/*styles of classes*/
+.baby_shark{
+  background-color: lightgreen;
+}
+
+/*styles of id's*/
+#daddy_shark{
+  background-color: purple;
+}
